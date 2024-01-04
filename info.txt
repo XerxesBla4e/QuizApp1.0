@@ -1,0 +1,4 @@
+using postgresql for the database,
+restore the quizdatabase_backup.sql 
+to clearly see functionality of the 
+backend app
